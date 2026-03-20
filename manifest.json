@@ -3888,6 +3888,74 @@
         "blob/1a3664f7de7a13bae5cafcaab4f0e01a8427565e.nq.gz",
         "blob/5b62879a7323d22098dba235bb086373093ef573.nq.gz",
         "blob/28924531ed0462c0c0e1ba5d5d0a078ca4a7c6f0.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/4d78d5f3ab1bc5b4d41f086fecc5acc36ead45af.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/4d78d5f3ab1bc5b4d41f086fecc5acc36ead45af.nq.gz",
+      "repolex": "aggregate/repolex/4d78d5f3ab1bc5b4d41f086fecc5acc36ead45af.nq.gz",
+      "dep": "dep/4d78d5f3ab1bc5b4d41f086fecc5acc36ead45af.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "sets",
+          "githubOrg": "danijar",
+          "githubRepo": "sets"
+        },
+        {
+          "packageName": "sqlalchemy",
+          "githubOrg": "sqlalchemy",
+          "githubRepo": "sqlalchemy"
+        },
+        {
+          "packageName": "tables",
+          "githubOrg": "PyTables",
+          "githubRepo": "PyTables"
+        },
+        {
+          "packageName": "sql",
+          "githubOrg": "3kwa",
+          "githubRepo": "sql"
+        },
+        {
+          "packageName": "thread",
+          "githubOrg": "python-thread",
+          "githubRepo": "thread"
+        },
+        {
+          "packageName": "mapping",
+          "githubOrg": "MatthewGilbert",
+          "githubRepo": "mapping"
+        },
+        {
+          "packageName": "wsgiutils",
+          "githubOrg": "davidfraser",
+          "githubRepo": "WSGIUtils"
+        },
+        {
+          "packageName": "schema",
+          "githubOrg": "keleshev",
+          "githubRepo": "schema"
+        },
+        {
+          "packageName": "psycopg",
+          "githubOrg": "psycopg",
+          "githubRepo": "psycopg"
+        },
+        {
+          "packageName": "cx-Oracle",
+          "githubOrg": "oracle",
+          "githubRepo": "python-cx_Oracle"
+        },
+        {
+          "packageName": "ez-setup",
+          "githubOrg": "ActiveState",
+          "githubRepo": "ez_setup"
+        },
+        {
+          "packageName": "properties",
+          "githubOrg": "seequent",
+          "githubRepo": "properties"
+        }
       ]
     },
     {
