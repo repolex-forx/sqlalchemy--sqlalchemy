@@ -5508,6 +5508,74 @@
         "blob/1a3664f7de7a13bae5cafcaab4f0e01a8427565e.nq.gz",
         "blob/5b62879a7323d22098dba235bb086373093ef573.nq.gz",
         "blob/28924531ed0462c0c0e1ba5d5d0a078ca4a7c6f0.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/0e15f047502bd3c17d008f95737119e0e3188658.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/0e15f047502bd3c17d008f95737119e0e3188658.nq.gz",
+      "repolex": "aggregate/repolex/0e15f047502bd3c17d008f95737119e0e3188658.nq.gz",
+      "dep": "dep/0e15f047502bd3c17d008f95737119e0e3188658.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "sqlalchemy",
+          "githubOrg": "sqlalchemy",
+          "githubRepo": "sqlalchemy"
+        },
+        {
+          "packageName": "cx-Oracle",
+          "githubOrg": "oracle",
+          "githubRepo": "python-cx_Oracle"
+        },
+        {
+          "packageName": "tables",
+          "githubOrg": "PyTables",
+          "githubRepo": "PyTables"
+        },
+        {
+          "packageName": "thread",
+          "githubOrg": "python-thread",
+          "githubRepo": "thread"
+        },
+        {
+          "packageName": "sets",
+          "githubOrg": "danijar",
+          "githubRepo": "sets"
+        },
+        {
+          "packageName": "schema",
+          "githubOrg": "keleshev",
+          "githubRepo": "schema"
+        },
+        {
+          "packageName": "sql",
+          "githubOrg": "3kwa",
+          "githubRepo": "sql"
+        },
+        {
+          "packageName": "properties",
+          "githubOrg": "seequent",
+          "githubRepo": "properties"
+        },
+        {
+          "packageName": "ez-setup",
+          "githubOrg": "ActiveState",
+          "githubRepo": "ez_setup"
+        },
+        {
+          "packageName": "psycopg",
+          "githubOrg": "psycopg",
+          "githubRepo": "psycopg"
+        },
+        {
+          "packageName": "wsgiutils",
+          "githubOrg": "davidfraser",
+          "githubRepo": "WSGIUtils"
+        },
+        {
+          "packageName": "mapping",
+          "githubOrg": "MatthewGilbert",
+          "githubRepo": "mapping"
+        }
       ]
     },
     {
