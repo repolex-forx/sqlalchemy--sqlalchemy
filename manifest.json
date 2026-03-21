@@ -10568,6 +10568,119 @@
         "blob/1a3664f7de7a13bae5cafcaab4f0e01a8427565e.nq.gz",
         "blob/5b62879a7323d22098dba235bb086373093ef573.nq.gz",
         "blob/28924531ed0462c0c0e1ba5d5d0a078ca4a7c6f0.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/b3db76d449966de741201e47b58062d2ac8d1dc8.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/b3db76d449966de741201e47b58062d2ac8d1dc8.nq.gz",
+      "repolex": "aggregate/repolex/b3db76d449966de741201e47b58062d2ac8d1dc8.nq.gz",
+      "dep": "dep/b3db76d449966de741201e47b58062d2ac8d1dc8.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "sqlalchemy",
+          "packageVersion": "2.1.0b1",
+          "githubOrg": "sqlalchemy",
+          "githubRepo": "sqlalchemy",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "wsgiutils",
+          "packageVersion": "0.7.2",
+          "githubOrg": "davidfraser",
+          "githubRepo": "WSGIUtils",
+          "githubCommit": "5520779cae5a1032b24214c871860ca8cb4a30ed"
+        },
+        {
+          "packageName": "cx-Oracle",
+          "packageVersion": "8.3.0",
+          "githubOrg": "oracle",
+          "githubRepo": "python-cx_Oracle",
+          "githubCommit": "5728cf534e24319640b52ea0e93c5042fe210f22"
+        },
+        {
+          "packageName": "sync",
+          "packageVersion": "1.0.0",
+          "githubOrg": "Knio",
+          "githubRepo": "sync",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "tables",
+          "packageVersion": "3.9.2",
+          "githubOrg": "PyTables",
+          "githubRepo": "PyTables",
+          "githubCommit": "ae689fd5b05d73cd9558fbf9a865d13a4082dc2d"
+        },
+        {
+          "packageName": "ez-setup",
+          "packageVersion": "0.9.0",
+          "githubOrg": "ActiveState",
+          "githubRepo": "ez_setup",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "schema",
+          "packageVersion": "0.7.8",
+          "githubOrg": "keleshev",
+          "githubRepo": "schema",
+          "githubCommit": "7434a6b3c9cd1672f0d491ed45114054750627af"
+        },
+        {
+          "packageName": "sql",
+          "packageVersion": "2022.4.0",
+          "githubOrg": "3kwa",
+          "githubRepo": "sql",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "mapping",
+          "packageVersion": "0.1.6",
+          "githubOrg": "MatthewGilbert",
+          "githubRepo": "mapping",
+          "githubCommit": "02cbc475296b455c1ec7c9a7be4670609cb655cd"
+        },
+        {
+          "packageName": "thread",
+          "packageVersion": "2.0.6",
+          "githubOrg": "python-thread",
+          "githubRepo": "thread",
+          "githubCommit": "669e025f3f72ab62b7abba82f8d394a28e1f0611"
+        },
+        {
+          "packageName": "unitofwork",
+          "packageVersion": "0.3.0",
+          "githubOrg": "ivanovmg",
+          "githubRepo": "unitofwork",
+          "githubCommit": "de53931e7e1a8e5a8f6681fda24c40e241991d46"
+        },
+        {
+          "packageName": "properties",
+          "packageVersion": "0.6.1",
+          "githubOrg": "seequent",
+          "githubRepo": "properties",
+          "githubCommit": "85dccbbd5455e4a34a255f18fbf1db6f71311868"
+        },
+        {
+          "packageName": "markdown",
+          "packageVersion": "3.9.0",
+          "githubOrg": "Python-Markdown",
+          "githubRepo": "markdown",
+          "githubCommit": "f39cf84a24124526c1a0efbe52219fa9950774f6"
+        },
+        {
+          "packageName": "sets",
+          "packageVersion": "0.3.2",
+          "githubOrg": "danijar",
+          "githubRepo": "sets",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "psycopg",
+          "packageVersion": "3.3.3",
+          "githubOrg": "psycopg",
+          "githubRepo": "psycopg",
+          "githubCommit": "1a8f65a371da3c691111cd4a81141f2cb698eafa"
+        }
       ]
     }
   ],
