@@ -1,0 +1,64 @@
+{
+  "commit": "0be0131a448f43aa4969792aa0158551163ce499",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/0be0131a448f43aa4969792aa0158551163ce499.nq.gz",
+      "size_bytes": 880061
+    },
+    "dep": {
+      "path": "dep/0be0131a448f43aa4969792aa0158551163ce499.nq.gz",
+      "size_bytes": 882
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "sqlalchemy",
+      "packageVersion": "2.1.0b1",
+      "githubOrg": "sqlalchemy",
+      "githubRepo": "sqlalchemy",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "sets",
+      "packageVersion": "0.3.2",
+      "githubOrg": "danijar",
+      "githubRepo": "sets",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "tables",
+      "packageVersion": "3.9.2",
+      "githubOrg": "PyTables",
+      "githubRepo": "PyTables",
+      "githubCommit": "ae689fd5b05d73cd9558fbf9a865d13a4082dc2d"
+    },
+    {
+      "packageName": "wsgiutils",
+      "packageVersion": "0.7.2",
+      "githubOrg": "davidfraser",
+      "githubRepo": "WSGIUtils",
+      "githubCommit": "5520779cae5a1032b24214c871860ca8cb4a30ed"
+    },
+    {
+      "packageName": "thread",
+      "packageVersion": "2.0.6",
+      "githubOrg": "python-thread",
+      "githubRepo": "thread",
+      "githubCommit": "669e025f3f72ab62b7abba82f8d394a28e1f0611"
+    },
+    {
+      "packageName": "schema",
+      "packageVersion": "0.7.8",
+      "githubOrg": "keleshev",
+      "githubRepo": "schema",
+      "githubCommit": "7434a6b3c9cd1672f0d491ed45114054750627af"
+    },
+    {
+      "packageName": "sql",
+      "packageVersion": "2022.4.0",
+      "githubOrg": "3kwa",
+      "githubRepo": "sql",
+      "githubCommit": "HEAD"
+    }
+  ]
+}
