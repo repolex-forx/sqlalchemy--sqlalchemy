@@ -35873,6 +35873,147 @@
         "blob/015f65bdf0485d07168b7675a50cf4be7de86add.nq.gz",
         "blob/5b62879a7323d22098dba235bb086373093ef573.nq.gz",
         "blob/28924531ed0462c0c0e1ba5d5d0a078ca4a7c6f0.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/d12392c38d570b4a3c14a02c75e2ea9476c34ffb.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/d12392c38d570b4a3c14a02c75e2ea9476c34ffb.nq.gz",
+      "repolex": "aggregate/repolex/d12392c38d570b4a3c14a02c75e2ea9476c34ffb.nq.gz",
+      "dep": "dep/d12392c38d570b4a3c14a02c75e2ea9476c34ffb.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "fixtures",
+          "packageVersion": "4.3.1",
+          "githubOrg": "testing-cabal",
+          "githubRepo": "fixtures",
+          "githubCommit": "a89bebeffba358fe89c71915fd2bf765fbfdbc0e"
+        },
+        {
+          "packageName": "sqlalchemy",
+          "packageVersion": "2.1.0b1",
+          "githubOrg": "sqlalchemy",
+          "githubRepo": "sqlalchemy",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "tables",
+          "packageVersion": "3.9.2",
+          "githubOrg": "PyTables",
+          "githubRepo": "PyTables",
+          "githubCommit": "ae689fd5b05d73cd9558fbf9a865d13a4082dc2d"
+        },
+        {
+          "packageName": "pickleable",
+          "packageVersion": "0.4.0",
+          "githubOrg": "Reddan",
+          "githubRepo": "pickleable",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "compiler",
+          "packageVersion": "0.2.0",
+          "githubOrg": "xiaojieluo",
+          "githubRepo": "vlde",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "mako",
+          "packageVersion": "1.3.9",
+          "githubOrg": "sqlalchemy",
+          "githubRepo": "mako",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "query",
+          "packageVersion": "0.1.4",
+          "githubOrg": "boydgreenfield",
+          "githubRepo": "query",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "cx-Oracle",
+          "packageVersion": "8.3.0",
+          "githubOrg": "oracle",
+          "githubRepo": "python-cx_Oracle",
+          "githubCommit": "5728cf534e24319640b52ea0e93c5042fe210f22"
+        },
+        {
+          "packageName": "psycopg",
+          "packageVersion": "3.3.3",
+          "githubOrg": "psycopg",
+          "githubRepo": "psycopg",
+          "githubCommit": "1a8f65a371da3c691111cd4a81141f2cb698eafa"
+        },
+        {
+          "packageName": "thread",
+          "packageVersion": "2.0.6",
+          "githubOrg": "python-thread",
+          "githubRepo": "thread",
+          "githubCommit": "669e025f3f72ab62b7abba82f8d394a28e1f0611"
+        },
+        {
+          "packageName": "wsgiutils",
+          "packageVersion": "0.7.2",
+          "githubOrg": "davidfraser",
+          "githubRepo": "WSGIUtils",
+          "githubCommit": "5520779cae5a1032b24214c871860ca8cb4a30ed"
+        },
+        {
+          "packageName": "sets",
+          "packageVersion": "0.3.2",
+          "githubOrg": "danijar",
+          "githubRepo": "sets",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "markdown",
+          "packageVersion": "3.9.0",
+          "githubOrg": "Python-Markdown",
+          "githubRepo": "markdown",
+          "githubCommit": "f39cf84a24124526c1a0efbe52219fa9950774f6"
+        },
+        {
+          "packageName": "toc",
+          "packageVersion": "0.0.9",
+          "githubOrg": "youngrok",
+          "githubRepo": "toc",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "properties",
+          "packageVersion": "0.6.1",
+          "githubOrg": "seequent",
+          "githubRepo": "properties",
+          "githubCommit": "85dccbbd5455e4a34a255f18fbf1db6f71311868"
+        },
+        {
+          "packageName": "coverage",
+          "packageVersion": "7.9.2",
+          "githubOrg": "nedbat",
+          "githubRepo": "coveragepy",
+          "githubCommit": "6e774923cf042751feb78036fcd46909d263be06"
+        },
+        {
+          "packageName": "pyodbc",
+          "packageVersion": "5.3.0",
+          "githubOrg": "mkleehammer",
+          "githubRepo": "pyodbc",
+          "githubCommit": "7ee5b566984f7bd3d8fcfa0369e9e163e70e1cbd"
+        },
+        {
+          "packageName": "ConfigParser",
+          "packageVersion": "7.2.0",
+          "githubOrg": "jaraco",
+          "githubRepo": "configparser",
+          "githubCommit": "196691a5900488f11cdf276af745e36776e2209a"
+        },
+        {
+          "packageName": "ez-setup",
+          "packageVersion": "0.9.0",
+          "githubOrg": "ActiveState",
+          "githubRepo": "ez_setup",
+          "githubCommit": "HEAD"
+        }
       ]
     },
     {
