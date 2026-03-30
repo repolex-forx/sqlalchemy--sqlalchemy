@@ -62849,6 +62849,26 @@
         "blob/1dadbaaee436ada45958ebc1ce2dc124df15f637.nq.gz",
         "blob/5897e401621ec0a43dcaff4ba1fcf1f55d3c5532.nq.gz",
         "blob/6fce85954331a9a82687b04e5f4040d4cf8fe001.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/8ce1d43bb568fa3123c4f040d50713d998b80b83.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/8ce1d43bb568fa3123c4f040d50713d998b80b83.nq.gz",
+      "repolex": "aggregate/repolex/8ce1d43bb568fa3123c4f040d50713d998b80b83.nq.gz",
+      "dep": "dep/8ce1d43bb568fa3123c4f040d50713d998b80b83.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "82.0.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "5a13876673a41e3cd21d4d6e587f53d0fb4fd8e5",
+          "githubTag": "v82.0.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/__init__.py"
+        }
       ]
     }
   ],
